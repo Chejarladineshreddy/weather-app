@@ -1,1 +1,1 @@
-# weather-app
+This repository is contains a Small Project developed using Python  to create the weather application's backend. The software retrieves current weather data and a five-day prediction for any city via the OpenWeatherMap API. When a user inputs the incorrect city name or there is an API problem it could handle errors.
